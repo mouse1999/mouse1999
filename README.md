@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**mouse1999/mouse1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Welcome to My GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello there! I'm a **Backend Java Developer** passionate about building scalable, reliable, and efficient backend solutions. I love solving complex problems, writing clean code, and constantly learning new technologies to grow as a developer. With expertise in Java, Spring Boot, and database optimization, I’m passionate about building solutions that make a real difference. If you’re also in backend development or full-stack projects, I’d love to connect and exchange ideas!  
+
+
+---
+
+## 🚀 About Me
+
+- 💻 Currently working on backend APIs and microservices using **Java** and **Spring Boot**.  
+- 🔍 Exploring the world of **full-stack development** with **HTML**, **CSS**, and **JavaScript**.  
+- 🌟 Enthusiastic about system design, databases, and creating high-performance applications.  
+- 📘 Always learning: Cloud technologies, DevOps practices, and clean coding principles.
+
+---
+
+## 🛠️ My Tech Stack
+
+- **Backend:** Java, Spring Boot, Spring Framework
+- **Databases:** MySQL, PostgreSQL, DynamoDB  
+- **Frontend (Learning):** HTML, CSS, JavaScript  
+- **Tools:** Git, Docker, Maven, IntelliJ IDEA  
+- **Cloud & DevOps:** AWS Lambda, Jenkins, Kubernetes  
+
+---
+
+## 📬 Get in Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/) 
+- 📧 **Email:** your-email@example.com (replace with your email address)  
+
+---
+
+## 🤝 Let's Collaborate!
+
+If you’re looking for a dedicated backend developer or want to discuss exciting new projects, feel free to connect. I’m always open to contributing to impactful software or learning from others in the tech community!
+
+---

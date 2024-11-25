@@ -19,10 +19,10 @@ Hello there! I'm a **Backend Java Developer** passionate about building scalable
 ## 🛠️ My Tech Stack
 
 - **Backend:** Java, Spring Boot, Spring Framework
-- **Databases:** MySQL, PostgreSQL, DynamoDB  
+- **Databases:** DynamoDB  
 - **Frontend (Learning):** HTML, CSS, JavaScript  
-- **Tools:** Git, Docker, Maven, IntelliJ IDEA  
-- **Cloud & DevOps:** AWS Lambda, Jenkins, Kubernetes  
+- **Tools:** Git, Maven, IntelliJ IDEA  
+- **Cloud & DevOps:** AWS Lambda
 
 ---
 

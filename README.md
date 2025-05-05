@@ -9,8 +9,8 @@ Hello there! I'm a **Backend Java Developer** passionate about building scalable
 
 ## 🚀 About Me
 
-- 💻 Currently working on backend APIs and microservices using **Java** and **Spring Boot**.  
-- 🔍 Exploring the world of **full-stack development** with **HTML**, **CSS**, and **JavaScript**.  
+- 💻 Currently working on a backend API using **Java** and **Spring Boot** with React Js for Frontend .  
+- 🔍 Exploring the world of **full-stack development** with **React** and **JavaScript**.  
 - 🌟 Enthusiastic about system design, databases, and creating high-performance applications.  
 - 📘 Always learning: Cloud technologies, DevOps practices, and clean coding principles.
 
@@ -18,18 +18,18 @@ Hello there! I'm a **Backend Java Developer** passionate about building scalable
 
 ## 🛠️ My Tech Stack
 
-- **Backend:** Java, Spring Boot, Spring Framework
-- **Databases:** DynamoDB  
-- **Frontend (Learning):** HTML, CSS, JavaScript  
-- **Tools:** Git, Maven, IntelliJ IDEA  
-- **Cloud & DevOps:** AWS Lambda
+- **Backend:** Java, Spring Boot
+- **Databases:** DynamoDB, Postgres  
+- **Frontend (Learning):**  JavaScript, React  
+- **Tools:** Git, Maven, IntelliJ IDEA, Vscode, Docker  
+- **Cloud & DevOps:** AWS 
 
 ---
 
 ## 📬 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/) 
-- 📧 **Email:** your-email@example.com (replace with your email address)  
+- 💼 [LinkedIn](www.linkedin.com/in/ed-mouse99) 
+- 📧 **Email:** kufreedward26@gmail.com
 
 ---
 
